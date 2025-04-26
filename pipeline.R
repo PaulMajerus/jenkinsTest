@@ -1,1 +1,1 @@
-pipelineR::start_pipeline()
+start_pipeline()
